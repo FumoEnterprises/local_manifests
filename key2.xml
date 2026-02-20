@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- device repos -->
+    <project name="FumoEnterprises/android_device_blackberry_sdm660-common" path="device/blackberry/sdm660-common" remote="github" revision="lineage-22.2" />
+    <project name="FumoEnterprises/android_device_blackberry_athena" path="device/blackberry/athena" remote="github" revision="lineage-22.2" />
+    <project name="FumoEnterprises/android_device_blackberry_luna" path="device/blackberry/luna" remote="github" revision="lineage-22.2" />
+
+    <!-- blobz -->
+    <project name="FumoEnterprises/android_vendor_blackberry_sdm660-common" path="vendor/blackberry/sdm660-common" remote="github" revision="lineage-22.2" />
+    <project name="FumoEnterprises/android_vendor_blackberry_athena" path="vendor/blackberry/athena" remote="github" revision="lineage-22.2" />
+    <project name="FumoEnterprises/android_vendor_blackberry_luna" path="vendor/blackberry/luna" remote="github" revision="lineage-22.2" />
+
+    <!-- kernel -->
+    <project name="FumoEnterprises/android_kernel_blackberry_sdm660" path="kernel/blackberry/sdm660" remote="github" revision="lineage-22.2" />
+
+    <!-- pkb app -->
+    <project name="BotchedRPR/android_packages_apps_Pastiera" path="packages/apps/Pastiera" remote="github" revision="dev" />
+</manifest>
